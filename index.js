@@ -3,7 +3,7 @@ const express = require('express');
 
 const app = express();
 const PORT = 3000;
-const API_URL = 'https://api68-6tko.onrender.com/history';
+const API_URL = 'https://api68-o786.onrender.com/history';
 
 let dataList = [];
 let lastPhien = null;
